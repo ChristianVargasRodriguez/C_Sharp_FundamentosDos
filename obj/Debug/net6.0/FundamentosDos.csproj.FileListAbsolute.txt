@@ -1,0 +1,15 @@
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\bin\Debug\net6.0\FundamentosDos.exe
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\bin\Debug\net6.0\FundamentosDos.deps.json
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\bin\Debug\net6.0\FundamentosDos.runtimeconfig.json
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\bin\Debug\net6.0\FundamentosDos.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\bin\Debug\net6.0\FundamentosDos.pdb
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\obj\Debug\net6.0\FundamentosDos.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\obj\Debug\net6.0\FundamentosDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\obj\Debug\net6.0\FundamentosDos.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\obj\Debug\net6.0\FundamentosDos.AssemblyInfo.cs
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\obj\Debug\net6.0\FundamentosDos.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\obj\Debug\net6.0\FundamentosDos.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\obj\Debug\net6.0\refint\FundamentosDos.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\obj\Debug\net6.0\FundamentosDos.pdb
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\obj\Debug\net6.0\FundamentosDos.genruntimeconfig.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosDos\obj\Debug\net6.0\ref\FundamentosDos.dll
